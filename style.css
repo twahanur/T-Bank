@@ -1,0 +1,30 @@
+body{
+    transition: all 1s;
+    padding-top: 200px;
+}
+.login-area{
+    align-items: center;
+}
+.submit-area{
+    border-radius: 10px;
+    box-shadow: 10px 10px 15px gray;
+}
+#transictionArea{
+    display: none;
+}
+.deposit{
+    background: rgb(108, 180, 0);
+    color: white;
+    font-weight: 800;
+} 
+.withdraw{
+    background: indianred;
+    color: white;
+    font-weight: 800;
+}
+
+.blance{
+    background: rgb(0, 31, 167);
+    color: white;
+    font-weight: 800;
+}
